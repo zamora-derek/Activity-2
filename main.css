@@ -1,0 +1,28 @@
+#header{
+   padding: 25px;
+   text-align: center;
+   font-size: 50px;
+}
+
+
+#wrapper {
+   max-width: 750px;
+   margin: 0 auto;
+   padding: 0 5%;
+}
+
+img {
+    width: 750px;
+    height: auto;
+    display: block;
+    margin: 10px auto 75px auto;
+    border-radius: 10px;
+}
+
+p {
+    width: 600px;
+    margin: 30px auto 25px auto;
+}
+
+
+
